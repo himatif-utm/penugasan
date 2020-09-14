@@ -1,0 +1,7 @@
+site_name: Himatif Utm
+site_url: https://himatif-utm.github.io/penugasan/
+repo_name: himatif-utm/penugasan
+# repo_url: https://github.com/Reactif-Academy/web-dasar
+theme:
+  name: material
+
