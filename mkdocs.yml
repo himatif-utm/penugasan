@@ -1,9 +1,39 @@
+# Nama Web Nya
 site_name: Himatif Utm
 site_url: https://himatif-utm.github.io/penugasan/
-
+site_description: >-
+  Web ini digunakan untuk info penugasan booting & memory XIX
+# Setting Repository nya
 repo_name: himatif-utm/penugasan
 repo_url: https://github.com/himatif-utm/penugasan/
 edit_uri: ""
-theme:
-  name: material
 
+copyright: Copyright &copy; 2020 - Himatif UTM
+
+theme:
+    name: null
+    custom_dir: material
+
+    # 404 page
+    static_templates:
+      - 404.html
+
+    # Don't include MkDocs' JavaScript
+    include_search_page: false
+    search_index_only: true
+
+    # Default values, taken from mkdocs_theme.yml
+    language: en
+    features:
+      - tabs
+      #- instant
+    palette:
+      scheme: default
+      primary: indigo
+      accent: indigo
+    font:
+      text: Roboto
+      code: Roboto Mono
+    favicon: assets/robit1.png
+    icon:
+      logo: logo
