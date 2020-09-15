@@ -10,6 +10,11 @@ edit_uri: ""
 
 copyright: Copyright &copy; 2020 - Himatif UTM
 
+
+nav:
+  - Home:
+    - welcome: index.md
+
 theme:
     name: null
     custom_dir: material
