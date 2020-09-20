@@ -8,3 +8,4 @@ Berikut Ini Adalah Penugasan Untuk Booting & Memory minggu 20 September 2020
     - Warna Kertas Kesepakatan 1 angkatan
 - Membuat Yel-yel kelompok se-kreatif mungkin
 - Menghafal Mars Informatika
+- Membuat Jargon 1 Angkatan
