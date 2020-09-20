@@ -15,6 +15,7 @@ nav:
     - Welcome: index.md
     - Peraturan: peraturan.md
     - Twibbon: twibbon.md
+    - Kelompok: kelompok.md
 
 theme:
     name: null
