@@ -14,6 +14,7 @@ nav:
   - Home:
     - Welcome: index.md
     - Peraturan: peraturan.md
+    - Twibbon: twibbon.md
 
 theme:
     name: null
