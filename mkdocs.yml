@@ -10,7 +10,6 @@ edit_uri: ""
 
 copyright: Copyright &copy; 2020 - Himatif UTM
 
-
 nav:
   - Home:
     - Welcome: index.md
