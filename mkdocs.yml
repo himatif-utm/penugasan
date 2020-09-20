@@ -16,6 +16,8 @@ nav:
     - Peraturan: peraturan.md
     - Twibbon: twibbon.md
     - Kelompok: kelompok.md
+  - Penugasan:
+    - Penugasan 1: penugasan/hari-1.md
 
 theme:
     name: null
