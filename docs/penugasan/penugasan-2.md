@@ -1,0 +1,6 @@
+# Penugasan B&M Sabtu 03 Oktober 2020
+- Buatlah Video individu sekreatif mungkin menggunakan filter instagram booting&memory 2020 mengenai “apa itu teknik informatika dan alasan masuk teknik informatika” menurut pendapat kalian masing-masing menggunakan  dresscode Hem Biru, Rok (Perempuan) & Celana (Laki-laki) Hitam, Krudung Hitam, Dasi Hitam, Ikat Pinggang, Durasi minimal 2 menit, dipost diIGTV untuk caption nama dan alasan masuk teknik informatika singkat dengan hastag #HIMATIFUTM #HIMATIFTRETAN #bootingnmemory20 #BandMXIX #CAKEPKEREN #iniinformatikaUTM20. TAG IG @bootingmemory dan @Himatifutm link IG dikirimkann ke classroom masing-masing.
+
+- Resume materi margin 4 3 3 3, bolpen angkatan, kertas angkatan minimal 1 lembar bolak balik dengan catatan tulisan maksimal 1cm Diberi nama,nim,nama kelompok cukup dihalaman pertama saja.
+- Tuliskan nama dan jabatan dipengurus HIMATIF 2020 beserta kepanitiaan di booting&memory2020 menggunakan bolpen angkatan, kertas angkatan dan diberi nama,nim,nama kelompok. (penugasan
+- Mengumpulkan link Post IG dan screenshot bukti menggunakan twibbon di profil Whatsapp dan upload feed IG
