@@ -1,3 +1,4 @@
 # Penugasan B&M Minggu 04 Oktober 2020
 - Resume materi margin 4 3 3 3, bolpen angkatan, kertas angkatan minimal 2 lembar bolak balik dengan catatan tulisan maksimal 1cm Diberi nama,nim,nama kelompok cukup dihalaman pertama saja.
 - Membuat video individu tentang “sekilas sejarah himatif” yang kalian ketahui menggunakan  dresscode , Durasi minimal 1 menit 45 detik, dipost diIGTV untuk caption nama dan sejarah himatif singkat dengan hastag #HIMATIFUTM #HIMATIFTRETAN #bootingnmemory20 #BandMXIX #CAKEPKEREN #iniinformatikaUTM20. TAG IG @bootingmemory dan @himatifutm
+- Membuat video profil kelompok se kreatif mungkin dan di upload ke feed IG  masing-masing dengan hastag #HIMATIFUTM #HIMATIFTRETAN #bootingnmemory20 #BandMXIX #CAKEPKEREN #iniinformatikaUTM20. TAG IG @bootingmemory dan @himatifut
