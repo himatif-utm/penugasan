@@ -1,3 +1,4 @@
 # Penugasan B&M Sabtu 10 Oktober 2020
 - Membuat Resume per materi dengan ketentuan margin 4 3 3 3, bolpen angkatan, kertas angkatan minimal 1 lembar bolak balik dengan catatan tulisan maksimal 1cm Diberi nama,nim,nama kelompok cukup dihalaman pertama saja.
 - Membuat Resume nama kelompok masing-masing beserta contohnya minimal 1 halaman dengan ketentuan margin 4 3 3 3, bolpen angkatan, kertas angkatan minimal 1 lembar bolak balik dengan catatan tulisan maksimal 1cm Diberi nama,nim,nama kelompok cukup dihalaman pertama saja.
+- Membuat video yel-yel kelompok secara individu, di post di feed ig durasi minimal 1 menit. Menggunakan dresscode baju putih, Rok (Perempuan) & Celana (Laki-laki) Hitam, Krudung Hitam, Dasi Hitam, Ikat Pinggang. dengan hastag #HIMATIFUTM #HIMATIFTRETAN #bootingnmemory20 #BandMXIX #CAKEPKEREN #iniinformatikaUTM20. TAG IG @bootingmemory dan @Himatifutm dan mengirimkan link video di classroom masing-masing
