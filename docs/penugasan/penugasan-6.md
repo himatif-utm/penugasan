@@ -1,3 +1,4 @@
 # Penugasan B&M Sabtu 11 Oktober 2020
 - Membuat Resume per materi dengan ketentuan margin 4 3 3 3, bolpen angkatan, kertas angkatan minimal 1 lembar bolak balik dengan catatan tulisan maksimal 1cm Diberi nama,nim,nama kelompok cukup dihalaman pertama saja. 
+- Membuat video individu tentang “protokol kesehatan” menggunakan  dresscode Hem Biru, Rok & Celana (Hitam), Krudung Hitam, Dasi Hitam, Ikat Pinggang, Durasi minimal 2 menit, dipost diIGTV untuk caption nama dan mengingatkan masyarakat untuk tetap mematuhi protokol kesehatan singkat dengan hastag #HIMATIFUTM #HIMATIFTRETAN #bootingnmemory20 #BandMXIX #CAKEPKEREN #iniinformatikaUTM20. TAG IG @bootingmemory dan @Himatifutm 
 - Silahkan Didownload Sesuai Perintah Sie acara [Disini](../asset/himatif.rar)
